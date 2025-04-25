@@ -1,0 +1,8 @@
+[
+    {
+        "model": "qwen-plus",
+        "api_key": "sk-92d8e25fcbf64d228c498673c5e0e15f",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "api_type": "openai"
+    }
+]
